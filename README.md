@@ -1,6 +1,6 @@
 # cadastro_covid19
 
-Sistema em linguagem C para o cadastro de pacientes diagnosticados com Covid-19 - Projeto Integrado Multidisciplinar - UNIP.
+Sistema em linguagem C para o cadastro de pacientes diagnosticados com Covid-19 (Projeto Integrado Multidisciplinar - UNIP).
 
 
 O usuário deve fazer login no sistema e posteriormente preencher os campos de cadastro do paciente, inclusive comorbidades. 
