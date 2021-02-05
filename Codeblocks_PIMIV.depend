@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605314993 source:d:\documentos\unip_ads\pim\iv\codeblocks_pimiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605318180 source:d:\documentos\unip_ads\pim\iv\pimiv_vitor fontes_0562547\arquivos_codeblocks_pimiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
