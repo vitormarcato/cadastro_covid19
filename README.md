@@ -18,8 +18,8 @@ Sistema em linguagem C para cadastro de pacientes diagnosticados com Covid-19. A
 
 # Funcionalidades
 
-- Autenticação de usuário e senha.
-- Calcula idade do paciente e verificará se há comorbidades com base no cadastro.
+- Autenticar usuário.
+- Calcular idade do paciente e verificar se há comorbidades com base no cadastro.
 - Gerar arquivos de texto com informações pertinentes dos cadastros.
 
 # Detalhes do projeto
