@@ -1,2 +1,0 @@
-CEP: teste
-Idade: 66
